@@ -1,6 +1,9 @@
 # MERN_TODO_LIST
 
-
+make clone of the project
+```
+https://github.com/Abhilash2219/MERN_TODO_LIST.git
+```
 
 Go to ```frontend``` and ```backend``` directory to install packages
 
